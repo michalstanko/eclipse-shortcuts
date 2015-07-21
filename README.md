@@ -15,4 +15,16 @@ After years of working in Visual Studio, after changing jobs I am now forced to 
 	<td>Jump to matching brace</td>
 	<td><code>Ctrl + Shift + P</code></td>
 </tr>
+<tr>
+	<td>Jump to last edited location</td>
+	<td><code>Ctrl + Q</code></td>
+</tr>
+<tr>
+	<td>Delete line</td>
+	<td><code>Ctrl + D</code></td>
+</tr>
+<tr>
+	<td>Move line up / down</td>
+	<td><code>Alt + Up / Down</code></td>
+</tr>
 </table>
