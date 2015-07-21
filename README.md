@@ -8,11 +8,11 @@ After years of working in Visual Studio, after changing jobs I am now forced to 
 	<td><code>Ctrl + Shift + F</code></td>
 </tr>
 <tr>
-	<td>Select all between brackets</td>
+	<td>Select all between braces</td>
 	<td><code>Alt + Shift + Up</code></td>
 </tr>
 <tr>
-	<td>Jump to matching bracket</td>
+	<td>Jump to matching brace</td>
 	<td><code>Ctrl + Shift + P</code></td>
 </tr>
 </table>
