@@ -5,14 +5,14 @@ After years of working in Visual Studio, after changing jobs I am now forced to 
 <table>
 <tr>
 	<td>Format source code</td>
-	<td>`Ctrl + Shift + F`</td>
+	<td><code>Ctrl + Shift + F</code></td>
 </tr>
 <tr>
 	<td>Select all between brackets</td>
-	<td>`Alt + Shift + Up`</td>
+	<td><code>Alt + Shift + Up</code></td>
 </tr>
 <tr>
 	<td>Jump to matching bracket</td>
-	<td>`Ctrl + Shift + P`</td>
+	<td><code>Ctrl + Shift + P</code></td>
 </tr>
 </table>
