@@ -2,5 +2,17 @@
 
 After years of working in Visual Studio, after changing jobs I am now forced to write JavaScript in Eclipse. Here are some shortcuts for my own reference.
 
-Select all between brackets: `Alt + Shift + Up`
-Jump to matching bracket: `Ctrl + Shift + P`
+<table>
+<tr>
+	<td>Format source code</td>
+	<td>`Ctrl + Shift + F`</td>
+</tr>
+<tr>
+	<td>Select all between brackets</td>
+	<td>`Alt + Shift + Up`</td>
+</tr>
+<tr>
+	<td>Jump to matching bracket</td>
+	<td>`Ctrl + Shift + P`</td>
+</tr>
+</table>
