@@ -4,6 +4,10 @@ After years of working in Visual Studio, after changing jobs I am now forced to 
 
 <table>
 <tr>
+	<td>Switch to Editor</td>
+	<td><code>Ctrl + Shift +E</code></td>
+</tr>
+<tr>
 	<td>Format source code</td>
 	<td><code>Ctrl + Shift + F</code></td>
 </tr>
