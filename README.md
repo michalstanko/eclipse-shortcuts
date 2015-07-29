@@ -31,4 +31,12 @@ After years of working in Visual Studio, after changing jobs I am now forced to 
 	<td>Move line up / down</td>
 	<td><code>Alt + Up / Down</code></td>
 </tr>
+<tr>
+	<td>Comment / uncomment line(s)</td>
+	<td><code>Ctrl + /</code></td>
+</tr>
+<tr>
+	<td>Block comment</td>
+	<td><code>Ctrl + Shift + /</code></td>
+</tr>
 </table>
