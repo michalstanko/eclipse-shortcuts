@@ -1,6 +1,6 @@
 # Eclipse shortcuts for JS development
 
-After years of working in Visual Studio, after changing jobs I am now forced to write JavaScript in Eclipse. Here are some shortcuts for my own reference.
+After years of working in Visual Studio, after changing jobs I was forced to write JavaScript in Eclipse for couple of months. Here are some shortcuts for my own reference.
 
 <table>
 <tr>
